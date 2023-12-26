@@ -1,0 +1,7 @@
+def neve(x, a):
+    if x < 70:
+        neve(x + 1, a * 11.1)
+    else:
+        print(a * a)
+in
+neve(0.1, 11.1) 

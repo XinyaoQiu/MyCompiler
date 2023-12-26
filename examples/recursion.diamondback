@@ -1,0 +1,19 @@
+def neve(x):
+    def nve(n):
+        if n == 0:
+            true
+        else:
+            ddo(n - 1)
+    and
+    def ddo(n):
+        if n == 0:
+            false
+        else:
+            nve(n - 1)
+    in
+    if x >= 0:
+        nve(x)
+    else:
+        nve(-1 * x)
+in
+neve(10) && true

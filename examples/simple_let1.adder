@@ -1,0 +1,3 @@
+let x = 1, y = sub1(x) in 
+    let z = 2, x = y, y = add1(x) in 
+        y

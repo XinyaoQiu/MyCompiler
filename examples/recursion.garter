@@ -1,0 +1,19 @@
+def neve(x):
+    def nve(n):
+        if n < 0.2:
+            true
+        else:
+            ddo(n - 1)
+    and
+    def ddo(n):
+        if n < 0.3:
+            false
+        else:
+            nve(n - 1)
+    in
+    if x <= 10.5:
+        nve(x)
+    else:
+        nve(-1 * x)
+in
+neve(5.5)

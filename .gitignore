@@ -1,0 +1,8 @@
+target/
+docs/
+runtime/*.o
+runtime/*.a
+runtime/*.s
+runtime/*.exe
+mk-submission.sh
+submission.zip

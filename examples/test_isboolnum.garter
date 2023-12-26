@@ -1,0 +1,1 @@
+isnum(1.1323) || isbool(1.124242) || isfloat(true)

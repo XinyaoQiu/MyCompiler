@@ -1,0 +1,7 @@
+def cal_count(x, count):
+    if x < 0.5:
+        count
+    else:
+        cal_count(x - 0.13, count + 1)
+in
+cal_count(56.328, 0)

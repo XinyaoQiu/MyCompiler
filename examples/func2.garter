@@ -1,0 +1,8 @@
+def func(x, y):
+    if x < 0.01 || y < 0.01:
+        1.6367
+    else:
+        let result = (x + y) * func(x - 0.3784568, y / 3.3486) / (x * y) in
+        result
+in
+func(29387.327826, 27.5068)

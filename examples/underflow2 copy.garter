@@ -1,0 +1,3 @@
+let a = 1.1e6 in
+let b = 1.1e-28 in
+a * b
