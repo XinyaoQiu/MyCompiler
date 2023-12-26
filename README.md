@@ -1,6 +1,6 @@
 ## MyComplier
 
-A new compiler that can compile natural languages. Support simple arithmetic options based on numbers and floats.
+A new compiler that can compile natural languages. Support simple arithmetic options based on numbers and floats. A file with natural language will be compiled as assembly code (x86_64 with FPU) and calculate results.
 
 ### 1. Concrete Syntax
 
